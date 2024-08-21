@@ -1,0 +1,56 @@
+HEADDATA = {
+                                          'MATERIAL': '{:0>18}'.format('40051907'),
+                                          'IND_SECTOR': 'M',
+                                          'MATL_TYPE': 'Z405',
+                                          'BASIC_VIEW':'X',
+                                          'SALES_VIEW':'X',
+                                          'PURCHASE_VIEW':'X',
+                                          'MRP_VIEW':'X',
+                                          'FORECAST_VIEW':'X',
+                                          'WORK_SCHED_VIEW':'X',
+                                          'PRT_VIEW':'X',
+                                          'STORAGE_VIEW':'X',
+                                          'WAREHOUSE_VIEW':'X',
+                                          'QUALITY_VIEW':'X',
+                                          'ACCOUNT_VIEW':'X',
+                                          'COST_VIEW':'X'
+                                      },
+                                      CLIENTDATA = {
+                                          'BASE_UOM': 'NO'
+                                      },
+                                      CLIENTDATAX = {
+                                          'BASE_UOM': 'X'
+                                      },
+                                      PLANTDATA = {
+                                          'PLANT': '4400',
+                                          'AVAILCHECK': 'KP',
+                                          'CTRL_CODE': '8485',
+                                          'MRP_TYPE': 'ND',
+                                          'PROFIT_CTR': 'LM400',
+                                          'AUTO_RESET':'X',
+                                      },
+                                      PLANTDATAX = {
+                                          'PLANT': '4400',
+                                          'AVAILCHECK': 'X',
+                                          'CTRL_CODE': 'X',
+                                          'MRP_TYPE': 'X',
+                                          'PROFIT_CTR': 'X',
+                                          'AUTO_RESET':'X',
+                                      },
+                                      VALUATIONDATA = {
+                                          'VAL_AREA': '',
+                                          'VAL_CLASS':'',
+                                          'PRICE_CTRL':'',
+                                          'MOVING_PR':'',
+                                          'STD_PRICE':'',
+                                          'PRICE_UNIT':''
+
+                                      },
+                                      VALUATIONDATAX = {
+                                          "VAL_AREA":'',
+                                          'VAL_CLASS':'X',
+                                          'PRICE_CTRL':'X',
+                                          'MOVING_PR':'X',
+                                          'STD_PRICE':'X',
+                                          'PRICE_UNIT':'X'
+                                      }

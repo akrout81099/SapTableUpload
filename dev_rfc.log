@@ -1,0 +1,209 @@
+
+**** Log file opened at 2024-08-06 13:51:27.257213 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 12
+Compilation date          : Jul  7 2023 22:54:54
+CPIC library              : 753.2023.07.06 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1216
+Current working directory : D:\PyCharm Projects\SapTableUpload
+Program                   : python
+Process ID                : 01884
+User                      : Lenovo
+Hardware                  : PC with Windows NT 4x AMD64 Level 6 (Mod 140 Step 2)
+Operating_system          : Windows NT 10.0
+Hostname                  : LMEL-ASHRITROUT
+IP address                : 132.147.8.226
+IPv6 address              : fe80::31e:e98e:2ef0:e58a
+Global trace level        : 0
+
+2024-08-06 13:51:27.242602 [06948] >> Info entry
+	Did not find config file D:\PyCharm Projects\SapTableUpload\sapnwrfc.ini.
+2024-08-06 13:51:27.669524 [06948] >> Error entry
+	Error in receive: 18, no SAP ErrInfo available, 97
+2024-08-06 13:51:27.673619 [06948] >> Error entry
+	[Handle: 2317044891104	ConvID: 41912375	Target: 192.168.200.19	SysID: DEV	SysNr: 00	User: AUTOMI1	Client: 500	Language: 	SAPRouter: /H/43.242.212.21/S/3299	Codepage: 4103]
+	RfcSystemException: Key: , Code: RFC_ABAP_RUNTIME_FAILURE, Message: 00024error during logon
+
+**** Log file opened at 2024-08-06 13:52:03.162246 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 12
+Compilation date          : Jul  7 2023 22:54:54
+CPIC library              : 753.2023.07.06 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1216
+Current working directory : D:\PyCharm Projects\SapTableUpload
+Program                   : python
+Process ID                : 18676
+User                      : Lenovo
+Hardware                  : PC with Windows NT 4x AMD64 Level 6 (Mod 140 Step 2)
+Operating_system          : Windows NT 10.0
+Hostname                  : LMEL-ASHRITROUT
+IP address                : 132.147.8.226
+IPv6 address              : fe80::31e:e98e:2ef0:e58a
+Global trace level        : 0
+
+2024-08-06 13:52:03.159138 [19928] >> Error entry
+	Error in receive: 18, no SAP ErrInfo available, 97
+2024-08-06 13:52:03.176328 [19928] >> Error entry
+	[Handle: 1945018397152	ConvID: 41949169	Target: 192.168.200.19	SysID: DEV	SysNr: 00	User: AUTOMI1	Client: 500	Language: 	SAPRouter: /H/43.242.212.21/S/3299	Codepage: 4103]
+	RfcSystemException: Key: , Code: RFC_ABAP_RUNTIME_FAILURE, Message: 00024error during logon
+
+**** Log file opened at 2024-08-06 13:52:37.535099 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 12
+Compilation date          : Jul  7 2023 22:54:54
+CPIC library              : 753.2023.07.06 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1216
+Current working directory : D:\PyCharm Projects\SapTableUpload
+Program                   : python
+Process ID                : 08484
+User                      : Lenovo
+Hardware                  : PC with Windows NT 4x AMD64 Level 6 (Mod 140 Step 2)
+Operating_system          : Windows NT 10.0
+Hostname                  : LMEL-ASHRITROUT
+IP address                : 132.147.8.226
+IPv6 address              : fe80::31e:e98e:2ef0:e58a
+Global trace level        : 0
+
+2024-08-06 13:52:37.534492 [04624] >> Error entry
+	Error in receive: 18, no SAP ErrInfo available, 97
+2024-08-06 13:52:37.536179 [04624] >> Error entry
+	[Handle: 2300949404624	ConvID: 41984535	Target: 192.168.200.19	SysID: DEV	SysNr: 00	User: AUTOMI1	Client: 500	Language: 	SAPRouter: /H/43.242.212.21/S/3299	Codepage: 4103]
+	RfcSystemException: Key: , Code: RFC_ABAP_RUNTIME_FAILURE, Message: 00024error during logon
+
+**** Log file opened at 2024-08-06 13:54:46.975851 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 12
+Compilation date          : Jul  7 2023 22:54:54
+CPIC library              : 753.2023.07.06 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1216
+Current working directory : D:\PyCharm Projects\SapTableUpload
+Program                   : python
+Process ID                : 10632
+User                      : Lenovo
+Hardware                  : PC with Windows NT 4x AMD64 Level 6 (Mod 140 Step 2)
+Operating_system          : Windows NT 10.0
+Hostname                  : LMEL-ASHRITROUT
+IP address                : 132.147.8.226
+IPv6 address              : fe80::31e:e98e:2ef0:e58a
+Global trace level        : 0
+
+2024-08-06 13:54:46.974851 [05284] >> Error entry
+	Error in receive: 18, no SAP ErrInfo available, 97
+2024-08-06 13:54:46.991131 [05284] >> Error entry
+	[Handle: 2515510842000	ConvID: 42114970	Target: 192.168.200.19	SysID: DEV	SysNr: 00	User: AUTOMI1	Client: 500	Language: 	SAPRouter: /H/43.242.212.21/S/3299	Codepage: 4103]
+	RfcSystemException: Key: , Code: RFC_ABAP_RUNTIME_FAILURE, Message: 00024error during logon
+
+**** Log file opened at 2024-08-06 13:57:53.158007 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 12
+Compilation date          : Jul  7 2023 22:54:54
+CPIC library              : 753.2023.07.06 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1216
+Current working directory : D:\PyCharm Projects\SapTableUpload
+Program                   : python
+Process ID                : 19500
+User                      : Lenovo
+Hardware                  : PC with Windows NT 4x AMD64 Level 6 (Mod 140 Step 2)
+Operating_system          : Windows NT 10.0
+Hostname                  : LMEL-ASHRITROUT
+IP address                : 132.147.8.226
+IPv6 address              : fe80::31e:e98e:2ef0:e58a
+Global trace level        : 0
+
+2024-08-06 13:57:53.157172 [10364] >> Error entry
+	Error in receive: 18, no SAP ErrInfo available, 97
+2024-08-06 13:57:53.164764 [10364] >> Error entry
+	[Handle: 2450671319920	ConvID: 42305120	Target: 192.168.200.19	SysID: DEV	SysNr: 00	User: AUTOMI1	Client: 500	Language: 	SAPRouter: /H/43.242.212.21/S/3299	Codepage: 4103]
+	RfcSystemException: Key: , Code: RFC_ABAP_RUNTIME_FAILURE, Message: 00024error during logon
+
+**** Log file opened at 2024-08-06 13:59:54.935573 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 12
+Compilation date          : Jul  7 2023 22:54:54
+CPIC library              : 753.2023.07.06 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1216
+Current working directory : D:\PyCharm Projects\SapTableUpload
+Program                   : python
+Process ID                : 18552
+User                      : Lenovo
+Hardware                  : PC with Windows NT 4x AMD64 Level 6 (Mod 140 Step 2)
+Operating_system          : Windows NT 10.0
+Hostname                  : LMEL-ASHRITROUT
+IP address                : 132.147.8.226
+IPv6 address              : fe80::31e:e98e:2ef0:e58a
+Global trace level        : 0
+
+2024-08-06 13:59:54.932844 [13084] >> Error entry
+	Error in receive: 18, no SAP ErrInfo available, 97
+2024-08-06 13:59:55.045352 [13084] >> Error entry
+	[Handle: 2639239315760	ConvID: 42430950	Target: 192.168.200.19	SysID: DEV	SysNr: 00	User: AUTOMI1	Client: 500	Language: 	SAPRouter: /H/43.242.212.21/S/3299	Codepage: 4103]
+	RfcSystemException: Key: , Code: RFC_ABAP_RUNTIME_FAILURE, Message: 00024error during logon
+
+**** Log file opened at 2024-08-07 16:12:26.033313 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 12
+Compilation date          : Jul  7 2023 22:54:54
+CPIC library              : 753.2023.07.06 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1216
+Current working directory : D:\PyCharm Projects\SapTableUpload
+Program                   : python
+Process ID                : 11184
+User                      : Lenovo
+Hardware                  : PC with Windows NT 4x AMD64 Level 6 (Mod 140 Step 2)
+Operating_system          : Windows NT 10.0
+Hostname                  : LMEL-ASHRITROUT
+IP address                : 132.147.8.226
+IPv6 address              : fe80::31e:e98e:2ef0:e58a
+Global trace level        : 0
+
+2024-08-07 16:12:26.031599 [06520] >> Error entry
+	Error in receive: 18, no SAP ErrInfo available, 588
+2024-08-07 16:12:26.125611 [06520] >> Error entry
+	[Handle: 2525141498064	ConvID: 36404979	Target: LLOYDSPRD	SysID: ECP	SysNr: 00	User: AUTOMI1	Client: 100	Language: E	SAPRouter: /H/43.242.212.21/S/3299	Codepage: 4103]
+	RfcSystemException: Key: SAPSQL_PARSE_ERROR, Code: RFC_ABAP_RUNTIME_FAILURE, Message: An error has occurred while parsing a dynamic entry.
+
+**** Log file opened at 2024-08-07 16:14:50.878958 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 12
+Compilation date          : Jul  7 2023 22:54:54
+CPIC library              : 753.2023.07.06 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1216
+Current working directory : D:\PyCharm Projects\SapTableUpload
+Program                   : python
+Process ID                : 18236
+User                      : Lenovo
+Hardware                  : PC with Windows NT 4x AMD64 Level 6 (Mod 140 Step 2)
+Operating_system          : Windows NT 10.0
+Hostname                  : LMEL-ASHRITROUT
+IP address                : 132.147.8.226
+IPv6 address              : fe80::31e:e98e:2ef0:e58a
+Global trace level        : 0
+
+2024-08-07 16:14:50.878379 [05892] >> Error entry
+	Error in receive: 18, no SAP ErrInfo available, 586
+2024-08-07 16:14:50.879345 [05892] >> Error entry
+	[Handle: 1639782338112	ConvID: 36515957	Target: LLOYDSPRD	SysID: ECP	SysNr: 00	User: AUTOMI1	Client: 100	Language: E	SAPRouter: /H/43.242.212.21/S/3299	Codepage: 4103]
+	RfcSystemException: Key: SAPSQL_PARSE_ERROR, Code: RFC_ABAP_RUNTIME_FAILURE, Message: An error has occurred while parsing a dynamic entry.
+
+**** Log file opened at 2024-08-07 16:21:50.626109 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 12
+Compilation date          : Jul  7 2023 22:54:54
+CPIC library              : 753.2023.07.06 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1216
+Current working directory : D:\PyCharm Projects\SapTableUpload
+Program                   : python
+Process ID                : 08520
+User                      : Lenovo
+Hardware                  : PC with Windows NT 4x AMD64 Level 6 (Mod 140 Step 2)
+Operating_system          : Windows NT 10.0
+Hostname                  : LMEL-ASHRITROUT
+IP address                : 132.147.8.226
+IPv6 address              : fe80::31e:e98e:2ef0:e58a
+Global trace level        : 0
+
+2024-08-07 16:21:50.625397 [10996] >> Error entry
+	Error in receive: 18, no SAP ErrInfo available, 588
+2024-08-07 16:21:50.626613 [10996] >> Error entry
+	[Handle: 2619796193760	ConvID: 37008420	Target: LLOYDSPRD	SysID: ECP	SysNr: 00	User: AUTOMI1	Client: 100	Language: E	SAPRouter: /H/43.242.212.21/S/3299	Codepage: 4103]
+	RfcSystemException: Key: SAPSQL_PARSE_ERROR, Code: RFC_ABAP_RUNTIME_FAILURE, Message: An error has occurred while parsing a dynamic entry.
