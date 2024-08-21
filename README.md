@@ -8,8 +8,9 @@ Python Program to upload data from SAP To Target
     * Download [nwrfcsdk](https://support.sap.com/en/product/connectors/nwrfcsdk.html) from SAP website
     * Extract the downloaded zip file into C drive and rename the folder to **nwrfcsdk**
       <img height="250" src="readmeimages\image_nwrfcsdk_1.png" width="600"/>
-      <span style="color:red">**Note: In this example we have saved the content in C drive in folder 
-      called SAP_NET_WEAVER**</span>
+      
+      * <span style="color:red">**Note: In this example we have saved the content in C drive in folder 
+        called SAP_NET_WEAVER**</span>
     * Open Start Menu and open **Edit the system environment variables**
     
       <img alt="Edit the system environment variables" width ="600" height="165" src="readmeimages/image_nwrfcsdk_2.png"/>
